@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>orbital station mir on RadioGeek</title>
+    <link>https://radiogeek.xyz/paulopinto/mir/</link>
+    <description>Recent content in orbital station mir on RadioGeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020, Root; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 11 Aug 2020 09:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://radiogeek.xyz/paulopinto/mir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Voice Communications with the crew</title>
+      <link>https://radiogeek.xyz/paulopinto/mir/voice-comms/</link>
+      <pubDate>Tue, 11 Aug 2020 09:00:00 +0100</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/mir/voice-comms/</guid>
+      <description>My first radio contact with MIR Orbital Station My first radio contact with the late MIR Orbital Station (MIR in Russian means PEACE) dates back to 1996. At that time, Russian cosmonaut Valery Korzun was the commander of the mission and an assiduous presence on the radio frequencies. Unfortunately, and for logistical reasons, I could not make a recording of the QSO. It was my first contact with a manned space mission.</description>
+    </item>
+    
+  </channel>
+</rss>

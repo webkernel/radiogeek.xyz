@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>international space station on RadioGeek</title>
+    <link>https://radiogeek.xyz/paulopinto/iss/</link>
+    <description>Recent content in international space station on RadioGeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020, Root; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 16:10:00 +0100</lastBuildDate><atom:link href="https://radiogeek.xyz/paulopinto/iss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voice Communications with the crew</title>
+      <link>https://radiogeek.xyz/paulopinto/iss/voice-comms/</link>
+      <pubDate>Thu, 06 Aug 2020 16:10:00 +0100</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/iss/voice-comms/</guid>
+      <description>My 1st radio contact with the International Space Station Susan Helms was a resident of the International Space Station (ISS) as flight engineer for over five months in 2001. While participating in ISS Expedition 2, she was a very active astronaut in the field of hamradio communications. It was also during Expedition 2 that the amateur radio equipment was installed, allowing us hams to contact the astronauts. You can hear my first conversation with her (recorded on 23rd June 2001).</description>
+    </item>
+    
+    <item>
+      <title>Contacts with students</title>
+      <link>https://radiogeek.xyz/paulopinto/iss/contacts-with-students/</link>
+      <pubDate>Thu, 06 Aug 2020 16:00:00 +0100</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/iss/contacts-with-students/</guid>
+      <description>Students in Rio de Janeiro talk to the Space Station A multi-point telebridge took place today between students of the American School of Rio de Janeiro, Brazil, and astronaut Chris Cassidy KF5KDR, using OR4ISS callsign, aboard the International Space Station.
+Chris Cassidy
+SOURCE: NASA
+A multi-point telebridge contact means that each student will be on the telebridge from their own home: the students will be talking with the ISS from their homes over phone lines.</description>
+    </item>
+    
+  </channel>
+</rss>

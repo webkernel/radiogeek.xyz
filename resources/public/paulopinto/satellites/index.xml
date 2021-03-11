@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>telemetry, beacon, voice &amp; digi comms... whatever on RadioGeek</title>
+    <link>https://radiogeek.xyz/paulopinto/satellites/</link>
+    <description>Recent content in telemetry, beacon, voice &amp; digi comms... whatever on RadioGeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020, Root; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 17:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://radiogeek.xyz/paulopinto/satellites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NEXUS Fuji-Oscar 99</title>
+      <link>https://radiogeek.xyz/paulopinto/satellites/nexus/</link>
+      <pubDate>Thu, 06 Aug 2020 17:00:00 +0100</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/satellites/nexus/</guid>
+      <description>Here’s my recording of CW Beacon - drifted
+Frequency 437.073 MHz
+Mode CW 20
+Timeframe:
+2020-07-31 20:53:29
+2020-07-31 21:00:36
+Fuji-Oscar 99
+Frequencies:
+• 437.075 MHz CW Telemetry
+• 435.900 MHz FSK AX.25 / π/4 shift QPSK CCSDS
+• SSB/CW transponder
+– 145.900-145.930 MHz Uplink
+– 435.880-435.910 MHz Downlink
+NEXUS Blog http://tinyurl.com/NEXUS-Sat-Blog
+JAMSAT in Google English http://tinyurl.com/JAMSAT
+IARU Frequency Coordination http://www.amsatuk.me.uk/iaru/finished_detail.php?serialnum=535
+Your browser does not support the audio element.  </description>
+    </item>
+    
+    <item>
+      <title>DA0SPUTNIK</title>
+      <link>https://radiogeek.xyz/paulopinto/satellites/da0sputnik/</link>
+      <pubDate>Thu, 06 Aug 2020 16:39:46 +0100</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/satellites/da0sputnik/</guid>
+      <description>On October 4th 2007 at 00:00 MESZ a balloon was launched from a team of radio amateurs at the Sternwarte Bochum/Germany. This is of course not really a satellite. It carried a beacon with the callsign DA0SPUTNIK which was transmitting information and audio recordings of the first artificial satellite Sputnik-1 which had been launched 50 years before.
+Your browser does not support the audio element.  </description>
+    </item>
+    
+    <item>
+      <title>RAFT Amateur Radio Satellite Project</title>
+      <link>https://radiogeek.xyz/paulopinto/satellites/raft/</link>
+      <pubDate>Thu, 06 Aug 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/satellites/raft/</guid>
+      <description>RAFT de-orbited on 30 May 2007 after 5 months in space. Here’s an excerpt from Raft’s webpage:
+BYE-BYE RAFT: Last packet captured was by PE1ITR at 01:45:10. . Nothing heard on the next USA pass at about 0300z on 30 May 2007. Total mission time for RAFT since the 21 December Launch was about 5 months and 9 days. . During the last 24 hours, the RAFT temperature rose by 30 deg C in the dark.</description>
+    </item>
+    
+    <item>
+      <title>AISTECHSAT-3</title>
+      <link>https://radiogeek.xyz/paulopinto/satellites/aistechsat-3/</link>
+      <pubDate>Thu, 06 Aug 2020 15:00:00 +0100</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/satellites/aistechsat-3/</guid>
+      <description>Reception of FSK AX.100 Mode 5 9600 from AISTECHSAT-3 Satellite.
+Based on the CubeSat-2U platform, AISTECHSAT-3 was developed by GOMSpace and Aistech. The satellites in this series provide aircraft tracking via an ADS-B receiver. There is also a two-way communication system for sending and receiving automatic information from vessels or remote assets around the world.
+Receção @SatNOGS do AISTECHSAT-3, satélite desenvolvido pela @GomSpaceGroup GOMSpace e pela @AistechSpace.https://t.co/eDI36rY3el pic.twitter.com/DqQO3OfyeS
+&amp;mdash; Paulo Pinto CT1ETE (@CT1ETE) August 1, 2020  </description>
+    </item>
+    
+  </channel>
+</rss>

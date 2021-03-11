@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RadioGeek</title>
+    <link>https://radiogeek.xyz/paulopinto/</link>
+    <description>Recent content on RadioGeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2020, Root; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 11 Aug 2020 09:00:00 +0100</lastBuildDate><atom:link href="https://radiogeek.xyz/paulopinto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://radiogeek.xyz/paulopinto/about/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/about/</guid>
+      <description>Hi!
+My name is Paulo Pinto and my ham callsign is CT1ETE.
+I have been passionate about communications since I was 13 years old. I obtained my amateur radio license in 1993 and since then I have been dedicating a large part of my free time to DX, Satellites and SWL.
+I am lover of CW (Morse code) and I&amp;rsquo;ve been trying to improve the speed of my decoding ability.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://radiogeek.xyz/paulopinto/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://radiogeek.xyz/paulopinto/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

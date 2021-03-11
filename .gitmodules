@@ -1,0 +1,12 @@
+[submodule "the-roots-home"]
+	path = the-roots-home
+	url = https://github.com/rmsubekti/the-roots-home.git
+[submodule "themes"]
+	path = themes
+	url = https://github.com/rmsubekti/the-roots-home.git
+[submodule "themes/the-roots-theme"]
+	path = themes/the-roots-theme
+	url = https://github.com/rmsubekti/the-roots-home.git
+[submodule "themes/the-roots-home"]
+	path = themes/the-roots-home
+	url = https://github.com/rmsubekti/the-roots-home.git
